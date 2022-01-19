@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=25&lines=Welcome+on+my+profile;urifrom.xyz)](https://git.io/typing-svg)" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=25&lines=Welcome+on+my+profile;urifrom.xyz" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blxxxz&label=Profile%20Views&color=f2f2f2&style=flat" alt="blxxxz" /> </p>
 
