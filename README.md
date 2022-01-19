@@ -1,5 +1,9 @@
 <h1 align="center">Welcome</h1>
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-5/728952097219018823.png" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blxxxz&label=Profile%20Views&color=f2f2f2&style=flat" alt="blxxxz" /> </p>
 
 <p align="center">
