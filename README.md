@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=25&lines=Welcome+on+my+profile;urifrom.xyz" />
-</p>
+<h1 align="center">Welcome</h1>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blxxxz&label=Profile%20Views&color=f2f2f2&style=flat" alt="blxxxz" /> </p>
 
 <p align="center">
